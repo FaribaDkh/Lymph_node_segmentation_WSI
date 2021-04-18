@@ -36,8 +36,6 @@ def all_slides():
         merge_tile(columns,rows,filename)
 
 def merge_tile(num_columns, num_rows, filename):
-    num_columns = 7
-    num_rows = 7
     total_width = num_columns * patch_size
     max_height = num_rows * patch_size
     #
