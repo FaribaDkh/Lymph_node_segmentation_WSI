@@ -1,0 +1,17 @@
+{
+    "root": "E:\\image_segmentation_keras_master_new\\keras_segmentation",
+    "program": "E:/image_segmentation_keras_master_new/keras_segmentation/train.py",
+    "startedAt": "2020-07-05T06:00:18.426005",
+    "host": "AKWRK015",
+    "username": "fdamband",
+    "executable": "C:\\Users\\fdamband\\Anaconda3\\envs\\unet_master_keras\\python.exe",
+    "os": "Windows-10-10.0.19041-SP0",
+    "python": "3.7.7",
+    "cpu_count": 8,
+    "args": [],
+    "state": "finished",
+    "jobType": null,
+    "mode": "dryrun",
+    "heartbeatAt": "2020-07-05T08:35:50.027960",
+    "exitcode": 0
+}

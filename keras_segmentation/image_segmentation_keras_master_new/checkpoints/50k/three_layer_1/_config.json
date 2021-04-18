@@ -1,0 +1,1 @@
+{"model_class": "unet_three_layer", "n_classes": 2, "input_height": 256, "input_width": 256, "output_height": 256, "output_width": 256}
